@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Permanent+Marker&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gelasio&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bevan&family=Noto+Sans+KR:wght@500&display=swap');
+/* Cores */
+.red-color{
+    color: #ED1C24;
+}
+.red-background{
+    background-color: #ED1C24;
+}
+.white-color{
+    color: #FDFFFC;
+}
+.white-background{
+    background-color: #FDFFFC;
+}
+.blue-color{
+    color: #235789;
+}
+.blue-background{
+    background-color: #235789;
+}
+.green-color{
+    color: #69A197;
+}
+.green-background{
+    background-color: #69A197;
+}
+.black-color{
+    color: #020100;
+}
+.black-background{
+    background-color: #020100;
+}
+/* Titulo */
+.titulo{
+    font-family: 'Bevan', cursive;
+}
+.subtitulo{
+    font-family: 'Kaushan Script', cursive;
+    font-size: 35px;
+}
+.subtitulo-normal{
+    font-family: 'Kaushan Script', cursive;
+}
+.texto{
+    font-family: 'Gelasio', serif;
+}
+
+td{
+    background-color: purple;
+}
